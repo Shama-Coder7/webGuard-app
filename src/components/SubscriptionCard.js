@@ -79,12 +79,6 @@ const SubscriptionCard = () => {
       <div className="md:grid md:grid-cols-12 md:gap-0 mt-4 md:mt-6">
         <div className="bg-white border rounded-t-lg md:rounded-l-lg shadow-md col-span-6 h-72 p-5">
           <div className="flex">
-            {/* <img
-              src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/136d357d-8ff0-4bee-affc-ce72c61c5bfb/d4ztyzy-75bfc929-888c-49f7-9fef-b49039b8891d.png/v1/fit/w_512,h_422/splinter_cell_chaos_theory_icon__16colors__by_gygabyte666_d4ztyzy-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIyIiwicGF0aCI6IlwvZlwvMTM2ZDM1N2QtOGZmMC00YmVlLWFmZmMtY2U3MmM2MWM1YmZiXC9kNHp0eXp5LTc1YmZjOTI5LTg4OGMtNDlmNy05ZmVmLWI0OTAzOWI4ODkxZC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wT2pDDSVa2UDnaGW9L8RpsHk4ZG57eNQ4SvYTVx-97o"
-              alt="green-dot"
-              className="h-6 w-8"
-            /> */}
-
             <TbFidgetSpinner color="green" className="mt-2 h-8 w-8" />
             <div className="ml-3">
               <p className="text-sm opacity-50">For Enterprise</p>

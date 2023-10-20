@@ -29,7 +29,6 @@ function Sliders() {
       <Slider {...settings}>
         <div className="md:p-4">
           <div className="bg-white p-4 rounded-lg shadow-lg">
-            {/* Your content for the first box */}
             <h3 className="font-bold">Log in and go</h3>
             <p className="text-sm opacity-40">
               Once you save a password in WebGuard.save a password in

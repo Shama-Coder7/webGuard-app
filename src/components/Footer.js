@@ -49,7 +49,7 @@ const Footer = () => {
             <li>Authenticator</li>
           </ul>
         </div>
-        <div className=''>
+        <div>
           <ul className="text-sm">
             <li>Resources</li>
             <li>My Account</li>
