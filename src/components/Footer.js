@@ -20,7 +20,8 @@ const Footer = () => {
             <br /> and see how we can help you.
           </p>
         </div>
-        <div className='pt-5 md:pt-0'>
+
+        <div className="pt-5 md:pt-0">
           <ul className="text-sm">
             <li>Products</li>
             <li>Communications</li>
@@ -28,7 +29,7 @@ const Footer = () => {
             <li>View All Products</li>
           </ul>
         </div>
-        <div className='pt-5 md:pt-0'>
+        <div className="pt-5 md:pt-0">
           <ul className="text-sm">
             <li>Company</li>
             <li>About Us</li>
@@ -38,7 +39,7 @@ const Footer = () => {
             <li>Contact Us</li>
           </ul>
         </div>
-        <div className='pt-5 md:pt-0'>
+        <div className="pt-5 md:pt-0">
           <ul className="text-sm">
             <li>Features</li>
             <li>AutoFill</li>
